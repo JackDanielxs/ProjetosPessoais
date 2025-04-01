@@ -15,7 +15,7 @@ Cada projeto inclui um arquivo README.md com detalhes sobre seu funcionamento e 
   </a>
 </p>
 
-### **📚 Frameworks e Bibliotecas**
+### ***📚 Frameworks e Bibliotecas***
 
 <p align="center">
   <a href="https://skillicons.dev">
