@@ -27,7 +27,7 @@ Cada projeto inclui um arquivo README.md com detalhes sobre seu funcionamento e 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,sqlserver,mysql,supabase" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@ Cada projeto inclui um arquivo README.md com detalhes sobre seu funcionamento e 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,aws,azuredevops,matplotlib,stackoverflow,git" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,aws,azure,matlab,stackoverflow,git" />
   </a>
 </p>
 
