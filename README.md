@@ -7,7 +7,7 @@ Cada projeto inclui um arquivo README.md com detalhes sobre seu funcionamento e 
 
 ## **🚀 Tecnologias utilizadas**  
 
-### **🖥️ Linguagens**
+### ***🖥️ Linguagens***
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -23,7 +23,7 @@ Cada projeto inclui um arquivo README.md com detalhes sobre seu funcionamento e 
   </a>
 </p>
 
-### **🛢️ Banco de Dados**
+### ***🛢️ Banco de Dados***
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -31,7 +31,7 @@ Cada projeto inclui um arquivo README.md com detalhes sobre seu funcionamento e 
   </a>
 </p>
 
-### **🛠️ Ferramentas**
+### ***🛠️ Ferramentas***
 
 <p align="center">
   <a href="https://skillicons.dev">
