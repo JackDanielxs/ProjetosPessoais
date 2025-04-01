@@ -1,11 +1,11 @@
 # **MEUS PROJETOS PESSOAIS**
 
-## **📌 Sobre Este Repositório**
+## ***📌 Sobre Este Repositório***
 Aqui você encontrará diversos projetos que desenvolvi ao longo da minha jornada como estudante de Ciência da Computação. Estes projetos refletem meu aprendizado, experimentações e evolução como programador.
 
 Cada projeto inclui um arquivo README.md com detalhes sobre seu funcionamento e lições aprendidas.
 
-## **🚀 Tecnologias utilizadas**  
+## ***🚀 Tecnologias utilizadas***
 
 ### ***🖥️ Linguagens***
 
@@ -39,7 +39,7 @@ Cada projeto inclui um arquivo README.md com detalhes sobre seu funcionamento e 
   </a>
 </p>
 
-## **🤝 Como Contribuir**
+## ***🤝 Como Contribuir***
 
 Este repositório é focado em meus projetos pessoais, mas se você quiser sugerir melhorias ou trocar ideias, sinta-se à vontade para:
 
