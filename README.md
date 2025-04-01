@@ -1,4 +1,4 @@
-# **MEUS PROJETOS PESSOAIS**
+# ***MEUS PROJETOS PESSOAIS***
 
 ## ***📌 Sobre Este Repositório***
 Aqui você encontrará diversos projetos que desenvolvi ao longo da minha jornada como estudante de Ciência da Computação. Estes projetos refletem meu aprendizado, experimentações e evolução como programador.
