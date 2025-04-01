@@ -9,7 +9,7 @@ Aqui você encontrará diversos projetos que desenvolvi ao longo da minha jornad
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java, c, cpp, cs, html, css, js" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,html,css,js" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@ Aqui você encontrará diversos projetos que desenvolvi ao longo da minha jornad
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet, spring" />
+    <img src="https://skillicons.dev/icons?i=dotnet,spring" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@ Aqui você encontrará diversos projetos que desenvolvi ao longo da minha jornad
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres, mysql, supabase" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
   </a>
 </p>
 
@@ -33,6 +33,6 @@ Aqui você encontrará diversos projetos que desenvolvi ao longo da minha jornad
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio, vscode, eclipse, stackoverflow, git" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,eclipse,stackoverflow,git" />
   </a>
 </p>
